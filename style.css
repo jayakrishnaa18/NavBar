@@ -36,3 +36,37 @@
     display: flex;
     justify-content: space-evenly;
 }
+.container-3{
+    position: relative;
+}
+.item{
+    position: absolute;
+    color: white;
+}
+
+.item-11{
+    top: 0;
+    left: 0;
+    z-index: 1;
+    padding: 10px;
+    font-size: 32px;
+
+}
+.item-22{
+    top: 500px;
+    left: 650px;
+    font-size: 32px;
+
+}
+.item-33{
+    top: 860px;
+    left: 0;
+    font-size: 16px;
+
+}
+.item-31{
+    top: 540px;
+    left: 720px;
+    font-size: 16px;
+
+}
